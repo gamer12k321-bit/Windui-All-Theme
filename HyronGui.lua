@@ -3162,19 +3162,19 @@ return aa end function a.s()
 return function(aa)
 return{
 Ocean = {
-Name="Ocean",
-    
-Accent = Color3.fromHex("#5DA9E9"),
-Button = Color3.fromHex("#5DA9E9"),
-Background = Color3.fromHex("#2F5F8F"),
-Text = Color3.fromHex("#FFFFFF"),
-Dialog = Color3.fromHex("#244A6E"),
-Outline = Color3.fromHex("#1E90FF"),
-Placeholder = Color3.fromHex("#1E90FF"),
-Icon = Color3.fromHex("#1E90FF"),
-Toggle = Color3.fromHex("#1E90FF"),
-Slider = Color3.fromHex("#1E90FF"),
-Checkbox = Color3.fromHex("#1E90FF"),
+    Name = "Ocean",
+
+Accent=Color3.fromHex("#006BFF"),
+Button=Color3.fromHex("#006BFF"),
+Background=Color3.fromHex("#006BFF"),
+Text=Color3.fromHex("#006BFF"),
+Dialog=Color3.fromHex("#006BFF"),
+Outline=Color3.fromHex("#006BFF"),
+Placeholder=Color3.fromHex("#006BFF"),
+Icon=Color3.fromHex("#006BFF"),
+Toggle=Color3.fromHex("#006BFF"),
+Slider=Color3.fromHex("#006BFF"),
+Checkbox=Color3.fromHex("#006BFF"),
 },
 Dark={
 Name="Dark",
