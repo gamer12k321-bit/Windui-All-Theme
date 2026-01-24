@@ -3164,17 +3164,17 @@ return{
 Ocean = {
     Name = "Ocean",
 
-Accent=Color3.fromHex("#006BFF"),
-Button=Color3.fromHex("#006BFF"),
-Background=Color3.fromHex("#006BFF"),
-Text=Color3.fromHex("#006BFF"),
-Dialog=Color3.fromHex("#006BFF"),
-Outline=Color3.fromHex("#006BFF"),
-Placeholder=Color3.fromHex("#006BFF"),
-Icon=Color3.fromHex("#006BFF"),
-Toggle=Color3.fromHex("#006BFF"),
-Slider=Color3.fromHex("#006BFF"),
-Checkbox=Color3.fromHex("#006BFF"),
+    Accent = Color3.fromHex("#0A3D62"),      -- Deep blue
+    Button = Color3.fromHex("#0A3D62"),      -- Deep blue
+    Background = Color3.fromHex("#061A2D"),  -- Very dark navy
+    Text = Color3.fromHex("#E6F1FF"),        -- Soft off-white for readability
+    Dialog = Color3.fromHex("#08253F"),      -- Dark ocean blue
+    Outline = Color3.fromHex("#0F52BA"),     -- Strong blue outline
+    Placeholder = Color3.fromHex("#1B4F72"), -- Muted dark blue
+    Icon = Color3.fromHex("#0F52BA"),        -- Strong blue
+    Toggle = Color3.fromHex("#0F52BA"),
+    Slider = Color3.fromHex("#0F52BA"),
+    Checkbox = Color3.fromHex("#0F52BA"),
 },
 Dark={
 Name="Dark",
